@@ -1,1 +1,1 @@
-c0ny1/upload-labs
+alpine:3.19.1
